@@ -105,13 +105,13 @@
   <!-- /.control-sidebar -->
 
   <!-- Main Footer -->
-  <footer class="main-footer">
+  <!-- <footer class="main-footer">
     <strong> <a href="https://1sourcecodr.blogspot.com/">link</a>.</strong>
     
     <div class="float-right d-none d-sm-inline-block">
       <b>Online Document Sharing System</b>
     </div>
-  </footer>
+  </footer> -->
 </div>
 <!-- ./wrapper -->
 
