@@ -1,5 +1,3 @@
-Free Download Source Code "Online files Sharing "
-
 FIRST Download
 
 1.XAMPP
@@ -24,10 +22,11 @@ FIRST Download
 **LOGIN DETAILS** 
 
 Admin
+
+user:javan@were.com
+pass:javanwere
+
 user: admin@admin.com
 pass: admin123
 
 create your own user
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
